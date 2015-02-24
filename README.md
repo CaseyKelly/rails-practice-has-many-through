@@ -7,3 +7,4 @@ to see
 * the organizations connected to a person
 
 Use `has_many :through` to solve this problem.
+# rails-practice-has-many-through
