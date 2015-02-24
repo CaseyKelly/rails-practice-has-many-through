@@ -8,3 +8,4 @@ to see
 
 Use `has_many :through` to solve this problem.
 # rails-practice-has-many-through
+# rails-practice-has-many-through
